@@ -24,7 +24,7 @@ New in 0.8.0 (Android Only):
 - Local development workflow using [Cordova CLI](http://cordova.apache.org/docs/en/edge/)
 
 ```bash
-cordova plugin add cordova-plugin-datepicker
+cordova plugin add --save https://github.com/Kent27/cordova-plugin-datepicker.git
 ```
 
 - Local development workflow using [PhoneGap CLI](http://phonegap.com/install/)
